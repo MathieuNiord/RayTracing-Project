@@ -17,6 +17,14 @@ Author : Mathieu Niord | University of Poitiers, Year 2021-2022
         - finally, a last scene which uses the concept of the Cornell box with a transparent sphere placed in the center
           and three smaller spheres around (the northest one only reflects).
 
+### Samples
+
+
+![Sample 1](https://user-images.githubusercontent.com/69221076/167291291-364bd22d-033c-4f10-ac8f-907d19f1718a.png)
+
+![Sample 2](https://user-images.githubusercontent.com/69221076/167291304-4a65e05f-890d-4852-896b-5bad538a511d.png)
+
+![Sample 3](https://user-images.githubusercontent.com/69221076/167291310-66b38314-44e0-4652-bca2-dabf8c76802c.png)
 
 ### Hierarchy of the project:
 
