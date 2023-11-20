@@ -22,7 +22,6 @@ Author : Mathieu Niord | University of Poitiers, Year 2021-2022
 <div align="center">
     <img alt="Sample 01 - Spheres on checkerboard" src="https://user-images.githubusercontent.com/69221076/167291291-364bd22d-033c-4f10-ac8f-907d19f1718a.png" width="720" height="405"/>
     <img alt="Sample 02 - Spheres on gray checkerboard" src="https://user-images.githubusercontent.com/69221076/167291304-4a65e05f-890d-4852-896b-5bad538a511d.png" width="720" height="405"/>
-    <img alt="Sample 03 - Transparence and reflective spheres in a Cornell Box" src="https://user-images.githubusercontent.com/69221076/167291310-66b38314-44e0-4652-bca2-dabf8c76802c.png" width="720" height="720"/>
 </div>
 
 ### Hierarchy of the project:
@@ -66,7 +65,7 @@ Author : Mathieu Niord | University of Poitiers, Year 2021-2022
 
     Scenes recommanded configurations:
         - Default               : -z -1.5
-        - Lesson example n°1    : -s 1 -z -1.5
-        - Lesson example n°2    : -s 2 -z -1.5
-        - Cornell Box           : -s 3 -z -0.2 -w 1080 -h 1080
+        - First Scene           : -s 1 -z -1.5
+        - Second Scene          : -s 2 -z -1.5
+        - Third Scene           : -s 3 -z -0.2 -w 1080 -h 1080
   
